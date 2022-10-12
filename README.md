@@ -1,2 +1,2 @@
 # React-pizza
-React + Redix Toolkit бекэнд на mockapi
+Сайт пиццерии SPA React/Redux toolkit + TypeScript бекэнд на mockapi из-за этого нельзя осуществлять поиск сразу по категориям и названию
